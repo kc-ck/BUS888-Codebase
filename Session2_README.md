@@ -1,0 +1,78 @@
+# Session 2: Regression and Data Preprocessing with Scikit-Learn
+
+Welcome to Session 2! This session covers essential data preprocessing techniques and various regression methods using Scikit-Learn. The notebooks and scripts are designed to be run in order, building your understanding step by step.
+
+## 1. Data Preprocessing Basics
+
+**File:** [`demos/scikit-learn-1-basicFunctions.py`](demos/scikit-learn-1-basicFunctions.py)
+
+- Learn about standardization, normalization, and handling missing values.
+- Practice splitting data into training and testing sets.
+- Introduction to generating synthetic datasets.
+
+---
+
+## 2. Simple Linear Regression
+
+**File:** [`notebooks/SimpleLinearReg.ipynb`](notebooks/SimpleLinearReg.ipynb)
+
+- Fit a simple linear regression model to synthetic data.
+- Visualize the regression line and make predictions for new data points.
+
+---
+
+## 3. Multiple Linear Regression
+
+**File:** [`notebooks/MultipleLinearReg.ipynb`](notebooks/MultipleLinearReg.ipynb)
+
+- Extend linear regression to multiple features.
+- Visualize data and the regression plane in 3D.
+- Predict outcomes for new data points.
+
+---
+
+## 4. Real-World Regression Example: Apple Stock
+
+**File:** [`demos/scikit-learn-2-regressing-aapl.py`](demos/scikit-learn-2-regressing-aapl.py)  
+**File:** [`notebooks/Scikit_reg_example.ipynb`](notebooks/Scikit_reg_example.ipynb)
+
+- Fetch real stock data using Yahoo Finance.
+- Apply linear regression to predict future stock prices.
+- Compare predictions with actual values and visualize results.
+
+---
+
+## 5. Regularization: Ridge Regression
+
+**File:** [`notebooks/SimpleRidgeRegression.ipynb`](notebooks/SimpleRidgeRegression.ipynb)
+
+- Understand the concept of regularization to prevent overfitting.
+- Apply Ridge regression and visualize its effect.
+
+---
+
+## 6. Regularization: Lasso Regression
+
+**File:** [`notebooks/SimpleLasso.ipynb`](notebooks/SimpleLasso.ipynb)
+
+- Learn about Lasso regression and its feature selection properties.
+- Fit a Lasso model and interpret the results.
+
+---
+
+## 7. Model Selection: LassoCV
+
+**File:** [`notebooks/LassoCV.ipynb`](notebooks/LassoCV.ipynb)
+
+- Use cross-validation to automatically select the best regularization parameter for Lasso.
+- Visualize and interpret the results.
+
+---
+
+## Instructions
+
+- Work through the files in the order above.
+- Each notebook/script is self-contained and includes code, comments, and visualizations.
+- Make sure you have installed all required packages (`numpy`, `scikit-learn`, `matplotlib`, `yfinance`).
+
+Happy learning!
