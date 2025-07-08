@@ -69,10 +69,25 @@ Welcome to Session 2! This session covers essential data preprocessing technique
 
 ---
 
+## 8. Regression Analysis and Prediction with Statsmodels
+
+**File:** [`notebooks/Appendix_RegressionModels.ipynb`](notebooks/Appendix_RegressionModels.ipynb)
+
+- Comprehensive tutorial on linear regression and prediction using statsmodels OLS
+- Learn to interpret detailed regression output including F-statistics, R-squared, and p-values
+- Practice with real taxi fare data including data cleaning and outlier handling
+- Model comparison and selection techniques
+- Advanced model diagnostics: residual analysis, Q-Q plots, and fitted vs residuals plots
+- Train-test split evaluation using MAE, RMSE, and MPE metrics
+- Perfect complement to scikit-learn regression methods with focus on statistical interpretation
+
+---
+
 ## Instructions
 
 - Work through the files in the order above.
 - Each notebook/script is self-contained and includes code, comments, and visualizations.
-- Make sure you have installed all required packages (`numpy`, `scikit-learn`, `matplotlib`, `yfinance`).
+- The Appendix notebook (Section 8) provides deeper statistical insights and complements the scikit-learn approach.
+- Make sure you have installed all required packages (`numpy`, `scikit-learn`, `matplotlib`, `yfinance`, `statsmodels`, `pandas`, `seaborn`).
 
 Happy learning!

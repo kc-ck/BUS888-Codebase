@@ -16,7 +16,8 @@ This session introduces you to:
 
 ### 🌳 CART & Random Forest Classification Demo
 
-**File:** [`notebooks/CART & RandomForest Demo_TitanicData.ipynb`](notebooks/CART%20&%20RandomForest%20Demo_TitanicData.ipynb)
+**Python Notebook Version:** [`notebooks/CART & RandomForest Demo_TitanicData.ipynb`](notebooks/CART%20&%20RandomForest%20Demo_TitanicData.ipynb)
+**Python Script Version:** [`demos/SupLearning/CART_RandomForest_Titanic.py`](demos/SupLearning/cart_randomforest_titanic_demo.py)
 
 **What you'll learn:**
 - Load and preprocess classification data
