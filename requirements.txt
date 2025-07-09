@@ -1,6 +1,35 @@
-scikit-learn
-pandas
-numpy
-seaborn
-matplotlib
-graphviz
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.0.0
+statsmodels>=0.12.0
+
+# Financial Data
+yfinance>=0.1.70
+
+# Visualization and Tree Plotting
+graphviz>=0.19.0
+
+# Statistical Analysis
+scipy>=1.7.0
+
+# Jupyter and IPython (for notebook environments)
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Database Connectivity (for advanced tutorials)
+psycopg2-binary>=2.9.0
+
+# Utility Libraries
+warnings  # Built-in Python module
+sys  # Built-in Python module
+subprocess  # Built-in Python module
+pkg_resources  # Part of setuptools
+
+# Optional: For better package management
+setuptools>=60.0.0
+wheel>=0.37.0
