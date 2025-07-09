@@ -1,4 +1,4 @@
-# Session 4: Advanced Regression Techniques - Lasso, Ridge, and Ensemble Methods
+# Session 4: Supervised Learning Demos - Lasso, Ridge, and Ensemble Methods
 
 Welcome to Session 4! This session covers advanced regression techniques including regularization methods (Lasso and Ridge) and ensemble methods (Random Forest). You'll learn to handle overfitting, perform feature selection, and build robust regression models.
 
