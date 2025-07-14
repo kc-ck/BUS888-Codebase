@@ -15,7 +15,7 @@ See pre-reqs-for-spyder.md
 
 ## Workshop Files
 
-### 📄 File 1: `simpleannprediction.py`
+### 📄 File 1: `/demos/NeuralNets/simpleannprediction.py`
 **Basic ANN for Stock Price Prediction**
 
 #### Key Concepts:
@@ -39,7 +39,7 @@ See pre-reqs-for-spyder.md
 
 ---
 
-### 📄 File 2: `simpleannprediction_w_functions.py`
+### 📄 File 2: `/demos/NeuralNets/simpleannprediction_w_functions.py`
 **Modularized ANN Implementation**
 
 #### Key Concepts:
@@ -62,7 +62,7 @@ See pre-reqs-for-spyder.md
 
 ---
 
-### 📄 File 3: `ann_predict_backtest.py`
+### 📄 File 3: `/demos/NeuralNets/ann_predict_backtest.py`
 **ANN with Trading Strategy Backtesting**
 
 #### Key Concepts:
@@ -87,7 +87,7 @@ This file correctly handles data scaling to prevent data leakage by fitting scal
 
 ---
 
-### 📄 File 4: `ann_rollingwindowprediction.py`
+### 📄 File 4: `/demos/NeuralNets/ann_rollingwindowprediction.py`
 **Advanced Rolling Window Prediction**
 
 #### Key Concepts:
